@@ -1,7 +1,7 @@
 //CAR PROJECT
 //Created by :
 //Sonia Sahuquillo Guillen
-//Guilermo Efren Medina Guaman
+//Guillermo Efren Medina Guaman
 /* PA + ULTRASONICO--------------------------------------------------------------------------*/
 #include <Arduino.h>
 #include <WiFi.h>
